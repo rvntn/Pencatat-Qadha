@@ -8,7 +8,7 @@ Pencatat Qadha Sholat dan Jadwal Waktu Sholat
 
 ## Membangun dari Kode Sumber
 ### Prasyarat
-1. [rust](https://rustup.rs/)
+install [rust](https://rustup.rs/)
 ### Compile
 ```sh
 cargo build --release
